@@ -1,0 +1,6 @@
+{
+  "name": "Cadence Studio",
+  "description": "Text-to-speech voice synthesis studio with expressive single and dual-speaker generation, interactive waveform playback, and instant MP3 and WAV downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
